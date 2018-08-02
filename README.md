@@ -1,4 +1,6 @@
 # HTML-Chat
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEteRNAgame%2FHTML-Chat.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEteRNAgame%2FHTML-Chat?ref=badge_shield)
+
 HTML5 implementation of Eterna's web-based IRC chat client to replace the legacy Flash-based implementation
 
 Please note that a rewritten version using Vue.js is planned to improve the readability and extensibility of the codebase. More info will be forthcoming.
@@ -22,3 +24,7 @@ Currently compatibility must be maintained between this chat and the legacy Flas
 -----------------------------------------
 
 Design and implementation of initial release: [@LFP6](https://github.com/LFP6) ([Eterna](http://www.eternagame.org/web/player/48290/))
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEteRNAgame%2FHTML-Chat.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEteRNAgame%2FHTML-Chat?ref=badge_large)
